@@ -1,0 +1,7 @@
+To run:
+python3 maze.py
+
+Alternatively:
+chmod +x maze.py
+./maze.py
+Make sure python3 is at /usr/local/bin/python3
